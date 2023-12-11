@@ -1,0 +1,1 @@
+The project will be is to build a basic food recipe website on which will showcase the skills I acquired on basic HTML.
