@@ -4,8 +4,21 @@
 }
 
 .title{
-    
     background: rgb(191, 191, 216);
     text-align: center;
     margin: 0 auto;
 }
+
+#index-recipe-list{
+    text-align: center;
+    list-style-type: none;
+
+}
+.recipe-link{
+    display: inline-block;
+    margin: 1em 4em;
+   
+}
+.recipe-link a{
+    text-decoration: none;
+}   
