@@ -1,10 +1,16 @@
 
 *{
     font-family: "Tahoma", sans-serif;
+    font-size: 16px;
+}
+body{
+    margin: 0;
+    padding: 0;
 }
 
 .title{
     background: rgb(191, 191, 216);
+    font-size: 5rem;
     text-align: center;
     margin: 0 auto;
 }
@@ -20,5 +26,6 @@
    
 }
 .recipe-link a{
+    font-size: 4rem;
     text-decoration: none;
 }   
